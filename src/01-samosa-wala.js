@@ -74,6 +74,7 @@
  *   const boundFn = fixWithBind(cart);         // properly bound sellItem
  */
 export function createSamosaCart(ownerName, location) {
+  return ownerName
   // Your code here
 }
 
